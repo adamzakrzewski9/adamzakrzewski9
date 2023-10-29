@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @adamzakrzewski9
 - 👀 I’m interested in HTML, CSS, Python, Java, and Javascript. Other hobbies include cars and reef keeping.
-- 🌱 I’m currently learning Data Structures and Computer Architecture and Assembly Language.
-- 💞️ I’m looking to collaborate on open source projects.
+- 🌱 I've recently completed a computer science degree.
+- 💞️ I’m looking to collaborate programming projects.
 - 📫 I can be reached at zakski@gmail.com
 
 <!---
